@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1942b4a7-2d66-4aa1-ab42-3fa180cf8300" solutionId="1942b4a7-2d66-4aa1-ab42-3fa180cf8300" resetWebServer="false" sharePointProductVersion="15.0" name="shrenky.projects.workflowtrigger" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c99f0cd6-b190-4a6a-80e4-30d04e1d1caa" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="68111ee1-aa67-4ae1-b688-091577e97e41" />
+    <projectItemReference itemId="876b4350-d523-4d5b-a2a1-14998b14ab6f" />
+  </projectItems>
+</package>

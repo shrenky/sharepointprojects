@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1942b4a7-2d66-4aa1-ab42-3fa180cf8300" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="shrenky.projects.workflowtrigger.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="shrenky.projects.workflowtrigger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1cd99f874a92087c" Namespace="shrenky.projects.workflowtrigger" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\shrenky.projects.workflowtrigger\js\jquery-1.11.1.min.js" />
+    <TemplateFile Location="Layouts\shrenky.projects.workflowtrigger\js\jquery.SPServices-2014.01.min.js" />
+    <TemplateFile Location="Layouts\shrenky.projects.workflowtrigger\js\WorkflowTriggerPageComponent.js" />
+    <TemplateFile Location="Images\shrenky.projects.workflowtrigger\Trigger.jpg" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="shrenky.projects.workflowtrigger_WorkflowTrigger\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <Control
+                  Id="AdditionalPageHead"
+                  Sequence="200"
+                  ControlClass="shrenky.projects.workflowtrigger.RibbonLoaderControl"
+                  ControlAssembly="shrenky.projects.workflowtrigger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1cd99f874a92087c">
+  </Control>
+  <CustomAction Id="shrenky.projects.workflowtrigger.Ribbon"
+                Location="CommandUI.Ribbon"
+                RegistrationId="100"
+                RegistrationType="List"
+                Sequence="120"
+                Title="Tigger"
+                Description="Trigger workflow">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition Location="Ribbon.ListItem.Workflow.Controls._children">
+          <FlyoutAnchor Id="shrenky.projects.workflowtrigger.Anchor"
+              Sequence="20"
+              LabelText="Workflows"
+              Image32by32="/_layouts/15/images/shrenky.projects.workflowtrigger/Trigger.jpg"
+              PopulateDynamically="true"
+              PopulateOnlyOnce="false"
+              PopulateQueryCommand="shrenky.projects.workflowtrigger.PopulateMenus"
+              ToolTipTitle="Dynamic dropdown"
+              ToolTipDescription="Shows dropdown made of buttons defined in JavaScript"
+              TemplateAlias="o1">
+          </FlyoutAnchor>
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler Command="shrenky.projects.workflowtrigger.TriggerMenuClick" CommandAction="javascript:WorkflowTrigger.Ribbon.RibbonComponent.get_instance().TriggerWorkflow(arguments[2].MenuItemId, '');"  EnabledScript="true" />
+        <CommandUIHandler Command="shrenky.projects.workflowtrigger.MessageMenuClick" CommandAction="javascript:alert('No workflow associated on current list.')"  EnabledScript="true" />
+      </CommandUIHandlers>
+    </CommandUIExtension>
+  </CustomAction>
+</Elements>

@@ -1,0 +1,5 @@
+D:\Sam\github\shrenky.projects\shrenky.projects.workflowtrigger\obj\Debug\shrenky.projects.workflowtrigger.csprojResolveAssemblyReference.cache
+D:\Sam\github\shrenky.projects\shrenky.projects.workflowtrigger\bin\Debug\shrenky.projects.workflowtrigger.dll
+D:\Sam\github\shrenky.projects\shrenky.projects.workflowtrigger\bin\Debug\shrenky.projects.workflowtrigger.pdb
+D:\Sam\github\shrenky.projects\shrenky.projects.workflowtrigger\obj\Debug\shrenky.projects.workflowtrigger.dll
+D:\Sam\github\shrenky.projects\shrenky.projects.workflowtrigger\obj\Debug\shrenky.projects.workflowtrigger.pdb
