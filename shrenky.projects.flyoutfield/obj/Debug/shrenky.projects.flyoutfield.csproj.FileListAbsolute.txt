@@ -1,0 +1,4 @@
+D:\Sam\github\shrenky.projects\shrenky.projects.flyoutfield\bin\Debug\shrenky.projects.flyoutfield.dll
+D:\Sam\github\shrenky.projects\shrenky.projects.flyoutfield\bin\Debug\shrenky.projects.flyoutfield.pdb
+D:\Sam\github\shrenky.projects\shrenky.projects.flyoutfield\obj\Debug\shrenky.projects.flyoutfield.dll
+D:\Sam\github\shrenky.projects\shrenky.projects.flyoutfield\obj\Debug\shrenky.projects.flyoutfield.pdb

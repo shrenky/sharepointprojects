@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shrenky.projects.workflowtrigger", "shrenky.projects.workflowtrigger\shrenky.projects.workflowtrigger.csproj", "{243CEC5B-E6F2-4FCA-A666-B127941B4EF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shrenky.projects.flyoutfield", "shrenky.projects.flyoutfield\shrenky.projects.flyoutfield.csproj", "{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{243CEC5B-E6F2-4FCA-A666-B127941B4EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{243CEC5B-E6F2-4FCA-A666-B127941B4EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{243CEC5B-E6F2-4FCA-A666-B127941B4EF6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A326E2C-97B2-46C0-AED4-5E6EA9A8D222}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

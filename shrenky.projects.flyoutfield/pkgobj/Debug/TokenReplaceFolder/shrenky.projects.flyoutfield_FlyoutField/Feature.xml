@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Custom field to show item details in flyout." Id="659bf996-bc0e-4c2f-b656-8af90eda9dfa" Scope="Site" Title="shrenky.projects.flyoutfield Feature"></Feature>

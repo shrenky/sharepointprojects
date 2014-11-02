@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="6ed5d70e-ff07-456f-a996-beb94b43f957" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="shrenky.projects.flyoutfield.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\FlyoutFieldUserControl.ascx" />
+    <TemplateFile Location="Layouts\shrenky.projects.flyoutfield\flyscript.js" />
+    <TemplateFile Location="Layouts\shrenky.projects.flyoutfield\jquery-1.11.1.min.js" />
+    <TemplateFile Location="XML\fldtypes_flyoutfield.xml" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="shrenky.projects.flyoutfield_FlyoutField\Feature.xml" />
+  </FeatureManifests>
+</Solution>

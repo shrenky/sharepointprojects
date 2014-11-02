@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6ed5d70e-ff07-456f-a996-beb94b43f957" solutionId="6ed5d70e-ff07-456f-a996-beb94b43f957" resetWebServer="false" sharePointProductVersion="15.0" name="shrenky.projects.flyoutfield" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="66a823a0-2000-4aa0-afb5-99bfb6921523" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="e469de66-d5fc-4ec9-9e94-882c91335c00" />
+    <projectItemReference itemId="52697eba-dfb1-4289-bb7f-fc7cfa5ac613" />
+    <projectItemReference itemId="558240a8-6ae4-4842-87c1-c874def1165d" />
+  </projectItems>
+</package>

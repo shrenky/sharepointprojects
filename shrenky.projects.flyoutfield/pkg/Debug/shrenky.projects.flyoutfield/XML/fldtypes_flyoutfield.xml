@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">FlyoutField</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="TypeDisplayName">Flyout Field</Field>
+    <Field Name="TypeShortDescription">Flyout Field Description</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibrary">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="Sortable">TRUE</Field>
+    <Field Name="Filterable">TRUE</Field> 
+    <Field Name="FieldTypeClass">shrenky.projects.flyoutfield.FlyoutField, shrenky.projects.flyoutfield, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1cd99f874a92087c</Field>
+    <Field Name="SQLType">nvarchar</Field>
+  </FieldType>
+</FieldTypes>
