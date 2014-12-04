@@ -1,0 +1,4 @@
+obj\x86\Debug\_shrenky.projects.workflowtest.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\shrenky.projects.workflowtest_Workflow1_BeforeInitializeComponentHelper.cs
+D:\Sam\github\shrenky.Projects\shrenky.projects.workflowtest\obj\x86\Debug\shrenky.projects.workflowtest_Workflow1_CompiledExpressionRoot.cs

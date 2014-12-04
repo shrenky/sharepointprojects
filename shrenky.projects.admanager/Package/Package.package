@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="93bae23d-5b71-4b18-a3dd-752731867551" solutionId="93bae23d-5b71-4b18-a3dd-752731867551" resetWebServer="false" sharePointProductVersion="15.0" name="shrenky.projects.admanager" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="31be99a1-53fd-49db-af9b-708b9aea9c18" />
+  </features>
+</package>

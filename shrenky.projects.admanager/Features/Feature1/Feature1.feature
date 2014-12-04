@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="12bf8d3f-1f60-4135-b985-92998c736145" featureId="12bf8d3f-1f60-4135-b985-92998c736145" imageUrl="" scope="Site" solutionId="00000000-0000-0000-0000-000000000000" title="shrenky.projects.admanager Feature1" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel" />

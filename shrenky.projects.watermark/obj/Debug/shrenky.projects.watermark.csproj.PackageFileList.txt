@@ -1,0 +1,1 @@
+bin\Debug\shrenky.projects.watermark.wsp

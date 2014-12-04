@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://server2013/</SharePointSiteUrl>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectItemStore Id="{f9c56dd7-5361-4898-ba18-c6f1b7a0eb4d}">
+          <DisplayName>shrenky.projects.watermark - workflow</DisplayName>
+          <HistoryList>Workflow History</HistoryList>
+          <HistoryListGuid>{33158736-0607-460b-8d8a-4bdb0a0651d7}</HistoryListGuid>
+          <TaskList>Workflow Test Tasks</TaskList>
+          <TaskListGuid>{2b23dddd-4529-4b5c-9671-742e33ff089a}</TaskListGuid>
+          <AutoAssociate>false</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://server2013/Lists/Company/AllItems.aspx</ListURL>
+          <TargetList>Company</TargetList>
+          <TargetListGuid>{087227cf-3adc-415f-8fac-258a31e1f26f}</TargetListGuid>
+          <StartOnCreate>true</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

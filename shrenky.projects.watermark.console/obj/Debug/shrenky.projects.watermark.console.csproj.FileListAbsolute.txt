@@ -1,0 +1,5 @@
+D:\Sam\github\shrenky.Projects\shrenky.projects.watermark.console\obj\Debug\shrenky.projects.watermark.console.csprojResolveAssemblyReference.cache
+D:\Sam\github\shrenky.Projects\shrenky.projects.watermark.console\bin\Debug\shrenky.projects.watermark.console.exe
+D:\Sam\github\shrenky.Projects\shrenky.projects.watermark.console\bin\Debug\shrenky.projects.watermark.console.pdb
+D:\Sam\github\shrenky.Projects\shrenky.projects.watermark.console\obj\Debug\shrenky.projects.watermark.console.exe
+D:\Sam\github\shrenky.Projects\shrenky.projects.watermark.console\obj\Debug\shrenky.projects.watermark.console.pdb

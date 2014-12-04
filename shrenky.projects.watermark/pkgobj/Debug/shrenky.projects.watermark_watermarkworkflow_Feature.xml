@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="35cc0d8d-718c-4ee0-af6c-a35aeb59cf53" Scope="Site" Title="shrenky.projects.watermark workflow">
+  <ElementManifests>
+    <ElementManifest Location="workflow\Elements.xml" />
+  </ElementManifests>
+</Feature>

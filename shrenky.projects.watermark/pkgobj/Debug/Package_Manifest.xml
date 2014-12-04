@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ef6982a0-6e3d-4873-b89c-0db193242937" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="shrenky.projects.watermark.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\shrenky.projects.watermark\settings.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="shrenky.projects.watermark_watermarkworkflow\Feature.xml" />
+  </FeatureManifests>
+</Solution>
